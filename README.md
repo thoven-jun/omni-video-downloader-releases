@@ -85,7 +85,7 @@ macOS · Windows 지원 · 100% 무료
 
 브라우저에서 보던 영상을 바로 앱으로 보낼 수 있습니다.
 
-1. [`omni-chrome-extension.zip`](https://github.com/thoven-jun/omni-video-downloader-releases/releases/latest) 다운로드 후 압축 해제
+1. [`omni-chrome-extension.zip`](https://github.com/thoven-jun/omni-video-downloader-releases/releases/download/chrome-extension-v1.1/omni-chrome-extension.zip) 다운로드 후 압축 해제 ([확장 릴리스 페이지](https://github.com/thoven-jun/omni-video-downloader-releases/releases/tag/chrome-extension-v1.1))
 2. Chrome 주소창에 `chrome://extensions` 입력
 3. 우측 상단 **개발자 모드** 켜기
 4. **압축 해제된 확장 프로그램을 로드합니다** → 압축 푼 폴더 선택
