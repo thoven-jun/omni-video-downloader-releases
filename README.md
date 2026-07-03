@@ -4,15 +4,11 @@
 
 # Omni Video Downloader
 
-**YouTube · Instagram · TikTok 영상을 클릭 몇 번으로 저장하는 데스크톱 앱**
+**YouTube · Instagram · TikTok 영상을 저장하는 개인용 데스크톱 앱**
 
-원하는 화질로 영상을, MP3로 음원을, 자막이 없는 영상은 AI 음성 인식으로 대본까지.
-macOS · Windows 지원 · 100% 무료
+원하는 화질로 영상을, MP3로 음원을, 자막이 없는 영상은 음성 인식으로 대본까지. macOS · Windows.
 
-[![최신 버전](https://img.shields.io/github/v/release/thoven-jun/omni-video-downloader-releases?label=최신%20버전&style=for-the-badge)](https://github.com/thoven-jun/omni-video-downloader-releases/releases/latest)
-[![다운로드 수](https://img.shields.io/github/downloads/thoven-jun/omni-video-downloader-releases/total?label=다운로드&style=for-the-badge)](https://github.com/thoven-jun/omni-video-downloader-releases/releases)
-
-### ⬇️ [**최신 버전 다운로드 →**](https://github.com/thoven-jun/omni-video-downloader-releases/releases/latest)
+[**다운로드 (Releases)**](https://github.com/thoven-jun/omni-video-downloader-releases/releases/latest)
 
 </div>
 
@@ -143,9 +139,12 @@ Apple 유료 서명을 붙이지 않은 개인 배포 앱이라 나타나는 정
 
 ## ⚖️ 사용 시 유의사항
 
-- 이 앱은 **개인적인 백업·오프라인 시청 등 정당한 용도**를 위한 도구입니다.
-- 다운로드한 콘텐츠의 **저작권은 원저작자에게 있습니다.** 재배포·상업적 이용은 저작권 침해가 될 수 있습니다.
-- 각 플랫폼의 서비스 약관을 확인하고 **본인 책임 하에** 사용하세요.
+- 이 앱은 **개인 소장·백업 등 정당한 개인적 용도**를 위한 무료 도구이며, 상업적 목적이나 대중 배포를 위한 것이 아닙니다.
+- 이 앱은 YouTube · Instagram · TikTok 및 각 운영사와 **아무런 제휴·후원·보증 관계가 없습니다.**
+- 다운로드한 콘텐츠의 **저작권은 원저작자에게 있습니다.** 재배포·상업적 이용·공유는 저작권 침해가 될 수 있습니다.
+- 인스타그램 계정 연동 기능은 **본인 계정으로 접근 가능한 콘텐츠에 한해** 사용하세요.
+- 각 플랫폼의 서비스 약관과 거주 지역의 법률을 확인하고, **모든 사용에 대한 책임은 사용자 본인에게 있습니다.** 개발자는 사용으로 인해 발생하는 어떠한 법적 책임도 지지 않습니다.
+- 자세한 데이터 처리 내용은 [개인정보처리방침](PRIVACY.md)을 참고하세요.
 
 ---
 
