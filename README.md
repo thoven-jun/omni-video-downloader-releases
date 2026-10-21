@@ -20,6 +20,10 @@
 
 </div>
 
+기본 기능 소개 영상
+
+https://github.com/user-attachments/assets/7f31769c-3f94-4681-8404-779bb3f52064
+
 ---
 
 ## ✨ 이런 걸 할 수 있어요
